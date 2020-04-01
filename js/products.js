@@ -1,0 +1,1 @@
+var products = ["Camisa Calindra", "Caneca Calindra", "Bolsa", "Caneta", "Mochila", "Headphone", "Calindra", "Pen Drive", "Star Wars", "Marvel", "DC", "Mulher Maravilha", "Homem Aranha", "Tony Stark", "Viúva Negra", "Camisas de Herói", "Vingadores", "Vingadores Ultimato"];
